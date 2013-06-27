@@ -1,7 +1,13 @@
 <?php
 	include_once('db_ini.php');
 	привет!!!!
+<<<<<<< HEAD
 	и снова здрасте
+=======
+
+это пишет Макс
+
+>>>>>>> a0a51b71ce21f79bf1647f352d75afc3ad2aade8
 /*
 	define( '_JEXEC', 1 );
 	define('JPATH_BASE', '/home/vtsystemru/domains/vtsystem.ru/public_html'); 
